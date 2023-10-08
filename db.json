@@ -1,0 +1,25 @@
+{
+  "productos": [
+    {
+      "nombreProducto": "cafe",
+      "precio": 300,
+      "categoria": "bebida caliente",
+      "imagen": "https://bittercoffees.com/wp-content/uploads/2022/01/cafe%CC%81-con-leche-1024x683.jpeg",
+      "id": 1
+    },
+    {
+      "nombreProducto": "chocolate caliente",
+      "precio": 400,
+      "categoria": "bebida caliente",
+      "imagen": "https://i0.wp.com/unapizcadeamor.com/wp-content/uploads/2019/12/seb0088-3.jpg?resize=750%2C750&ssl=1",
+      "id": 2
+    },
+    {
+      "nombreProducto": "licuado",
+      "precio": 400,
+      "categoria": "bebida fria",
+      "imagen": "https://editorialtelevisa.brightspotcdn.com/wp-content/uploads/2018/08/licuados.jpg",
+      "id": 3
+    }
+  ]
+}
