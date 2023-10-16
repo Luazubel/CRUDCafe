@@ -37,7 +37,7 @@ const EditarProducto = () => {
             <hr />
         </section>
         <section className="container my-3">
-            <Form>
+            <Form >
             <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label>Nombre producto</Form.Label>
           <Form.Control

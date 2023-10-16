@@ -5,7 +5,7 @@ import { obtenerProductoAPI } from "../../helpers/queries";
 
 const DetalleProducto = () => {
   const [producto, setProducto] = useState("");
-  const { id } = useParams();
+  const {id} = useParams();
 
   useEffect(() => {
     obtenerProductoAPI(id).then((respuesta) => {
