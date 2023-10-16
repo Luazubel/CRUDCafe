@@ -56,7 +56,7 @@ const CrearProducto = () => {
           <Form.Label>Imagen URL</Form.Label>
           <Form.Control
             required
-            type="number"
+            type="text"
             placeholder="https://..."  
             {...register("imagen", {required: "La URL de la imagen es obligatoria",
              pattern:{value:/^https?:\/\/[\w\-]+(\.[\w\-]+)+[/#?]?.*$/,
